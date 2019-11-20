@@ -1,0 +1,23 @@
+body {
+  background: rgb(0, 240, 40);
+}
+#block {
+  background: red;
+  position: absolute;
+}
+.plats {
+  background: rgb(80, 50, 40);
+  position: absolute;
+}
+/*#plat1{
+  left = 0%;
+  top = 90%;
+  width = 100%;
+  height = 10%;
+}
+#plat2{
+  left = 0.5 * $("body").width() + px;
+  top = 0.50 * $("body").height() + px;
+  width = 0.15 * $("body").width() + px;
+  height = 0.5 * $("body").height() + px;
+}*/
